@@ -30,6 +30,7 @@ All data was using release 5 GP2 data (access-controlled via single-sign on amp-
 | SH3GL2_GP2_EAS | SH3GL2 variants screening in GP2 data (release 5) - East Asian ancestry |
 | SH3GL2_GP2_EUR | SH3GL2 variants screening in GP2 data (release 5) - European ancestry |
 | SH3GL2_GP2_FIN | SH3GL2 variants screening in GP2 data (release 5) - Finnish ancestry |
+| SH3GL2_GP2_MDE | SH3GL2 variants screening in GP2 data (release 5) - Middle Eastern ancestry |
 | SH3GL2_GP2_SAS | SH3GL2 variants screening in GP2 data (release 5) - South Asian ancestry |
 
 ### Tables and Supplemental Tables
