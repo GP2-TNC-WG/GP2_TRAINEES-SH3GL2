@@ -2,7 +2,7 @@
 
 ```GP2 ❤️ Open Science 😍```
 
-**Last Updated:** July 2023
+**Last Updated:** November 2023
 
 ### Summary
 This is the online repository for the manuscript titled "___SH3GL2 variants and the risk for Parkinson’s disease in diverse ancestry populations___". This study focuses on exploring the role of SH3GL2 in existing PD/control datasets from the AMP-PD and GP2 initiatives.
